@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <header className='flex items-center justify-between px-20 py-8 bg-blue-50'>
+    <header className='flex items-center justify-between px-20 py-8 bg-blue-50/50'>
         <div>
             <h1 className='text-4xl font-bold text-blue-600'>ISMT Chat</h1>
         </div>
